@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/triple-green-farms-cbd-gummies/sitemap.xml
+Sitemap: https://triple-green-farms-cbd-gummies.vercel.app/sitemap-vercel.xml
+Sitemap: https://triple-green-farms-cbd-gummies.pages.dev/sitemap-cloudflare.xml
